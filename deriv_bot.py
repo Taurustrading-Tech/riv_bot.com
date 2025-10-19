@@ -1,0 +1,1 @@
+<content of deriv_bot.py to overwrite>
